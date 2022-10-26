@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @patrikduch
-- 👀 I’m Solutions Architect / Software Architect with primary focus on Microservices Architecture and digital transformation.
+- 👀 I’m Solutions Architect / Software Architect with primary focus on Microservices Architecture and Digital Transformation.
