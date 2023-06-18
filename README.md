@@ -1,2 +1,4 @@
 - 👋 Hi, I’m @patrikduch
-- 👀 I’m Solutions Architect / Software Architect with primary focus on Microservices Architecture and Digital Transformation.
+- 👀 I am a Solutions Architect and Software Architect, specializing in the domain of Microservices Architecture and Digital Transformation. With an extensive background in technology and strategic problem-solving, I bring forth innovative solutions that align business needs with technological advancements.
+- Over the years, I've guided businesses through digital transformation initiatives, enabling them to leverage technology to streamline operations, improve customer experiences, and ultimately, achieve their strategic objectives.
+- I continuously update my skills and knowledge, which allows me to introduce forward-thinking solutions that meet both current and future needs.
