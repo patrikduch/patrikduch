@@ -1,6 +1,6 @@
 👋 Hi, I’m @patrikduch
 
-👨‍💻 Experienced Software Architect with a strong background in system architecture design, development of web and serverless applications, cloud technologies, and integration of modern tools across diverse projects in e-commerce, banking, and logistics.
+👨‍💻 Experienced Solutions and Software Architect with a strong background in system architecture design, development of web and serverless applications, cloud technologies, and integration of modern tools across diverse projects in e-commerce, banking, and logistics.
 
 🚀 Over the years, I’ve helped organizations navigate complex digital transformation journeys — aligning modern technology with strategic business goals to streamline operations, boost efficiency, and enhance customer experiences.
 
