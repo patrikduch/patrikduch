@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @patrikduch
-- 👀 I am a Solutions Architect and Software Architect, specializing in the domain of Microservices Architecture and Digital Transformation. With an extensive background in technology and strategic problem-solving, I bring forth innovative solutions that align business needs with technological advancements.
-- Over the years, I've guided businesses through digital transformation initiatives, enabling them to leverage technology to streamline operations, improve customer experiences, and ultimately, achieve their strategic objectives.
-- I continuously update my skills and knowledge, which allows me to introduce forward-thinking solutions that meet both current and future needs.
+👋 Hi, I’m @patrikduch
+
+👨‍💻 Experienced Software Architect with a strong background in system architecture design, development of web and serverless applications, cloud technologies, and integration of modern tools across diverse projects in e-commerce, banking, and logistics.
+
+🚀 Over the years, I’ve helped organizations navigate complex digital transformation journeys — aligning modern technology with strategic business goals to streamline operations, boost efficiency, and enhance customer experiences.
+
+🧠 I stay actively up to date with emerging technologies, allowing me to design scalable, future-ready systems that solve real-world challenges.
+
+🔍 I’ve also supported companies in implementing robust audit logging solutions to ensure traceability, accountability, and compliance — especially in regulated industries.
+
+💡 My approach blends strategic thinking with hands-on implementation to deliver innovative, reliable solutions that make a tangible impact.
